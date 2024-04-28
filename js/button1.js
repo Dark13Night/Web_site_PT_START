@@ -5,7 +5,7 @@ document.getElementById("myButton").onclick = function () {
         document.getElementById("demo").innerHTML = "";
     } else {
         var img = document.createElement("img");
-        img.src = 'C:/PT_START/Web_site_PT_START/image/photo3.jpg';
+        img.src = 'https://tehnografi.com/wp-content/uploads/2021/09/Уязвимость-в-облаке-Microsoft-Azure-это-худшее-что-вы.jpgc';
         document.getElementById("demo").appendChild(img);
     }
 }
